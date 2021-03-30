@@ -1,0 +1,12 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+inspyred.log
+
+onsets_extracted/
+output/
+logs/
+results/
+src/results/
+__pycache__/
